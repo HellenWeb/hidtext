@@ -1,11 +1,10 @@
 # HidText | 📜
-script for hiding text on the page (without css) 🔗
+Very simple script for hiding text on the page (without css) 🔗
 ## Launching app
-> First, you need to install modules 
-> from requirements.txt file
+> First, you need to run command: *chmod +x hidtext.py*
 ## Run
 ```
-python run.py --url *your site*
+HOST=*your host* PORT=*your port* URL=*your url address* ./hidtext.py
 ```
 ## Copyright
 © Copyright by. Hellen
